@@ -72,3 +72,8 @@ Feel free to fork this repository and open a pull request.
 ## 📬 Feedback
 
 If you find this project helpful or have suggestions for improvement, feel free to open an issue or reach out!
+
+## 📬 Contact
+
+For any queries or feedback, feel free to connect!
+- LinkedIn: https://www.linkedin.com/in/muhammad-hurraira-0993a4346/
